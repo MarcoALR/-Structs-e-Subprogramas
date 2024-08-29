@@ -1,0 +1,3 @@
+C:/Users/conta/3D Objects/SEGUNDO PERÍODO UNIFAGOC/Paulo/ATV PAULO/7-/cmake-build-debug/CMakeFiles/3_.dir
+C:/Users/conta/3D Objects/SEGUNDO PERÍODO UNIFAGOC/Paulo/ATV PAULO/7-/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/3D Objects/SEGUNDO PERÍODO UNIFAGOC/Paulo/ATV PAULO/7-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
