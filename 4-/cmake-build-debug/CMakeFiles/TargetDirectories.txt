@@ -1,0 +1,3 @@
+C:/Users/conta/Downloads/Paulo/4-/cmake-build-debug/CMakeFiles/3_.dir
+C:/Users/conta/Downloads/Paulo/4-/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/Downloads/Paulo/4-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
